@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me send me a message on here
 
-Visit my website - > Gobljnn (https://gobljnn.github.io)
+Visit my website - > https://gobljnn.github.io
 Dammy Adebayo
 
 <!---
