@@ -264,6 +264,7 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   position: relative;
 }
+
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.65);
@@ -315,6 +316,7 @@ h1, h2, h3, h4, h5, h6 {
     background-attachment: fixed;
   }
 }
+
 @media (max-width: 575px) {
   #hero h1 {
     font-size: 40px;
@@ -550,6 +552,13 @@ section {
   height: 10px;
   transition: 0.9s;
   background-color: rgba(59, 153, 225, 0.9);
+}
+
+@media(max-width:991px){
+  .identity{
+    margin-top: 30px;
+  }
+  
 }
 
 /*--------------------------------------------------------------
@@ -998,6 +1007,11 @@ section {
   background: #ffc85a;
 }
 
+.pro{
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
@@ -1088,5 +1102,5 @@ section {
   /* justify-content: center; */
   align-items: center;
   left:20px;
-
 }
+
