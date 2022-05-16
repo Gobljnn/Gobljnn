@@ -1082,3 +1082,11 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.tsumalogo{
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  left:20px;
+
+}
