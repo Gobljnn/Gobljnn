@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Dammy Adebayo (A.K.A @Gobljnn (pronounced Goblin))
 - 👀 I’m interested in full stack engineering and creating web solutions for any industry especially Chemical/Process/Environmental Engineering
-- 🌱 I’m currently learning full stack / software development
+- 🌱 Full stack developer honours graduate
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me send me a message on here
 
