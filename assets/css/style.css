@@ -1007,9 +1007,19 @@ section {
   background: #ffc85a;
 }
 
+.contact_box{
+  width: 50%;
+}
+
 .pro{
   flex-wrap: nowrap;
   justify-content: center;
+}
+
+@media (max-width: 991px) {
+  .pro{
+    flex-wrap: wrap;
+  }
 }
 
 @-webkit-keyframes animate-loading {
